@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doruk.Domain", "Doruk.Domain\Doruk.Domain.csproj", "{6B55ABBC-F924-4823-8509-B8988BB5A874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doruk.Application", "Doruk.Application\Doruk.Application.csproj", "{060282CF-5D49-4676-8093-E88FD5E144C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{69585FBC-940D-44CC-83E0-EFBE59FA8588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doruk.Infracture", "Doruk.Infracture\Doruk.Infracture.csproj", "{86DA786B-C2A1-4C3E-9C4C-632B80403C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doruk.Persistence", "Doruk.Persistence\Doruk.Persistence.csproj", "{EC82E519-D8AE-4778-BED5-DC4D2C042C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B55ABBC-F924-4823-8509-B8988BB5A874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B55ABBC-F924-4823-8509-B8988BB5A874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B55ABBC-F924-4823-8509-B8988BB5A874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B55ABBC-F924-4823-8509-B8988BB5A874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060282CF-5D49-4676-8093-E88FD5E144C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060282CF-5D49-4676-8093-E88FD5E144C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060282CF-5D49-4676-8093-E88FD5E144C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060282CF-5D49-4676-8093-E88FD5E144C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DA786B-C2A1-4C3E-9C4C-632B80403C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DA786B-C2A1-4C3E-9C4C-632B80403C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DA786B-C2A1-4C3E-9C4C-632B80403C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DA786B-C2A1-4C3E-9C4C-632B80403C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC82E519-D8AE-4778-BED5-DC4D2C042C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC82E519-D8AE-4778-BED5-DC4D2C042C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC82E519-D8AE-4778-BED5-DC4D2C042C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC82E519-D8AE-4778-BED5-DC4D2C042C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D9C01D-0094-4FB1-81D5-4577FFB8B37A}
+	EndGlobalSection
+EndGlobal

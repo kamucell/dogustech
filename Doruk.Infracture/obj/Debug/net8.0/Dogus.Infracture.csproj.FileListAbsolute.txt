@@ -1,0 +1,17 @@
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.csproj.AssemblyReference.cache
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.AssemblyInfoInputs.cache
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.AssemblyInfo.cs
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.csproj.CoreCompileInputs.cache
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Infracture.deps.json
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Infracture.dll
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Infracture.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Application.dll
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Domain.dll
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Application.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\bin\Debug\net8.0\Dogus.Domain.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.In.D2635E13.Up2Date
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.dll
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\refint\Dogus.Infracture.dll
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\Dogus.Infracture.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Infracture\obj\Debug\net8.0\ref\Dogus.Infracture.dll

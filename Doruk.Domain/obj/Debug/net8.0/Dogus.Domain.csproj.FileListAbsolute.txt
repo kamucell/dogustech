@@ -1,0 +1,11 @@
+D:\Project2023\Dogus\Dogus\Dogus.Domain\bin\Debug\net8.0\Dogus.Domain.deps.json
+D:\Project2023\Dogus\Dogus\Dogus.Domain\bin\Debug\net8.0\Dogus.Domain.dll
+D:\Project2023\Dogus\Dogus\Dogus.Domain\bin\Debug\net8.0\Dogus.Domain.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\Dogus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\Dogus.Domain.AssemblyInfoInputs.cache
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\Dogus.Domain.AssemblyInfo.cs
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\Dogus.Domain.csproj.CoreCompileInputs.cache
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\Dogus.Domain.dll
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\refint\Dogus.Domain.dll
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\Dogus.Domain.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Domain\obj\Debug\net8.0\ref\Dogus.Domain.dll

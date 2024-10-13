@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project2023\\Dogus\\Dogus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC82E519-D8AE-4778-BED5-DC4D2C042C57}|Dogus.Persistence\\Dogus.Persistence.csproj|d:\\project2023\\dogus\\dogus\\dogus.persistence\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC82E519-D8AE-4778-BED5-DC4D2C042C57}|Dogus.Persistence\\Dogus.Persistence.csproj|solutionrelative:dogus.persistence\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|d:\\project2023\\dogus\\dogus\\dogus.infracture\\data\\durationsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|solutionrelative:dogus.infracture\\data\\durationsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|d:\\project2023\\dogus\\dogus\\dogus.infracture\\data\\workordersource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|solutionrelative:dogus.infracture\\data\\workordersource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|d:\\project2023\\dogus\\dogus\\dogus.application\\dataresource\\iworkordersource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|solutionrelative:dogus.application\\dataresource\\iworkordersource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|d:\\project2023\\dogus\\dogus\\dogus.application\\dtos\\workorderduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|solutionrelative:dogus.application\\dtos\\workorderduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|d:\\project2023\\dogus\\dogus\\dogus.application\\dtos\\reasonanddurationmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|solutionrelative:dogus.application\\dtos\\reasonanddurationmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|d:\\project2023\\dogus\\dogus\\dogus.application\\enginee\\workorderduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|solutionrelative:dogus.application\\enginee\\workorderduration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|d:\\project2023\\dogus\\dogus\\dogus.infracture\\service\\workorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|solutionrelative:dogus.infracture\\service\\workorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC82E519-D8AE-4778-BED5-DC4D2C042C57}|Dogus.Persistence\\Dogus.Persistence.csproj|d:\\project2023\\dogus\\dogus\\dogus.persistence\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC82E519-D8AE-4778-BED5-DC4D2C042C57}|Dogus.Persistence\\Dogus.Persistence.csproj|solutionrelative:dogus.persistence\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|d:\\project2023\\dogus\\dogus\\dogus.infracture\\registrationofinfractureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA786B-C2A1-4C3E-9C4C-632B80403C79}|Dogus.Infracture\\Dogus.Infracture.csproj|solutionrelative:dogus.infracture\\registrationofinfractureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|d:\\project2023\\dogus\\dogus\\dogus.application\\dataresource\\idurationsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060282CF-5D49-4676-8093-E88FD5E144C3}|Dogus.Application\\Dogus.Application.csproj|solutionrelative:dogus.application\\dataresource\\idurationsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC82E519-D8AE-4778-BED5-DC4D2C042C57}|Dogus.Persistence\\Dogus.Persistence.csproj|d:\\project2023\\dogus\\dogus\\dogus.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC82E519-D8AE-4778-BED5-DC4D2C042C57}|Dogus.Persistence\\Dogus.Persistence.csproj|solutionrelative:dogus.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B55ABBC-F924-4823-8509-B8988BB5A874}|Dogus.Domain\\Dogus.Domain.csproj|d:\\project2023\\dogus\\dogus\\dogus.domain\\workorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B55ABBC-F924-4823-8509-B8988BB5A874}|Dogus.Domain\\Dogus.Domain.csproj|solutionrelative:dogus.domain\\workorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkOrderService.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\Service\\WorkOrderService.cs",
+              "RelativeDocumentMoniker": "Dogus.Infracture\\Service\\WorkOrderService.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\Service\\WorkOrderService.cs",
+              "RelativeToolTip": "Dogus.Infracture\\Service\\WorkOrderService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIA5wCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:13:45.484Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DurationSource.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\Data\\DurationSource.cs",
+              "RelativeDocumentMoniker": "Dogus.Infracture\\Data\\DurationSource.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\Data\\DurationSource.cs",
+              "RelativeToolTip": "Dogus.Infracture\\Data\\DurationSource.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:24:41.998Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkOrderSource.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\Data\\WorkOrderSource.cs",
+              "RelativeDocumentMoniker": "Dogus.Infracture\\Data\\WorkOrderSource.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\Data\\WorkOrderSource.cs",
+              "RelativeToolTip": "Dogus.Infracture\\Data\\WorkOrderSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:04:54.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorkOrderSource.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DataResource\\IWorkOrderSource.cs",
+              "RelativeDocumentMoniker": "Dogus.Application\\DataResource\\IWorkOrderSource.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DataResource\\IWorkOrderSource.cs",
+              "RelativeToolTip": "Dogus.Application\\DataResource\\IWorkOrderSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:44:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReasonAndDurationMatrix.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DTOs\\ReasonAndDurationMatrix.cs",
+              "RelativeDocumentMoniker": "Dogus.Application\\DTOs\\ReasonAndDurationMatrix.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DTOs\\ReasonAndDurationMatrix.cs",
+              "RelativeToolTip": "Dogus.Application\\DTOs\\ReasonAndDurationMatrix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:43:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDurationSource.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DataResource\\IDurationSource.cs",
+              "RelativeDocumentMoniker": "Dogus.Application\\DataResource\\IDurationSource.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DataResource\\IDurationSource.cs",
+              "RelativeToolTip": "Dogus.Application\\DataResource\\IDurationSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:04:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationOfInfractureService.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\RegistrationOfInfractureService.cs",
+              "RelativeDocumentMoniker": "Dogus.Infracture\\RegistrationOfInfractureService.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Infracture\\RegistrationOfInfractureService.cs",
+              "RelativeToolTip": "Dogus.Infracture\\RegistrationOfInfractureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:59:41.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkOrderDuration.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DTOs\\WorkOrderDuration.cs",
+              "RelativeDocumentMoniker": "Dogus.Application\\DTOs\\WorkOrderDuration.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\DTOs\\WorkOrderDuration.cs",
+              "RelativeToolTip": "Dogus.Application\\DTOs\\WorkOrderDuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:44:16.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Persistence\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Dogus.Persistence\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Persistence\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Dogus.Persistence\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:43:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Persistence\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dogus.Persistence\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Persistence\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Dogus.Persistence\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T20:42:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Persistence\\Program.cs",
+              "RelativeDocumentMoniker": "Dogus.Persistence\\Program.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Persistence\\Program.cs",
+              "RelativeToolTip": "Dogus.Persistence\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:42:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkOrderDuration.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\Enginee\\WorkOrderDuration.cs",
+              "RelativeDocumentMoniker": "Dogus.Application\\Enginee\\WorkOrderDuration.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Application\\Enginee\\WorkOrderDuration.cs",
+              "RelativeToolTip": "Dogus.Application\\Enginee\\WorkOrderDuration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:42:05.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkOrder.cs",
+              "DocumentMoniker": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Domain\\WorkOrder.cs",
+              "RelativeDocumentMoniker": "Dogus.Domain\\WorkOrder.cs",
+              "ToolTip": "D:\\Project2023\\Dogus\\Dogus\\Dogus.Domain\\WorkOrder.cs",
+              "RelativeToolTip": "Dogus.Domain\\WorkOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:23:35.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.csproj.AssemblyReference.cache
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.AssemblyInfoInputs.cache
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.AssemblyInfo.cs
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.csproj.CoreCompileInputs.cache
+D:\Project2023\Dogus\Dogus\Dogus.Application\bin\Debug\net8.0\Dogus.Application.deps.json
+D:\Project2023\Dogus\Dogus\Dogus.Application\bin\Debug\net8.0\Dogus.Application.dll
+D:\Project2023\Dogus\Dogus\Dogus.Application\bin\Debug\net8.0\Dogus.Application.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Application\bin\Debug\net8.0\Dogus.Domain.dll
+D:\Project2023\Dogus\Dogus\Dogus.Application\bin\Debug\net8.0\Dogus.Domain.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Ap.357A25B1.Up2Date
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.dll
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\refint\Dogus.Application.dll
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\Dogus.Application.pdb
+D:\Project2023\Dogus\Dogus\Dogus.Application\obj\Debug\net8.0\ref\Dogus.Application.dll
